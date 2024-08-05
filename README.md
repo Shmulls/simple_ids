@@ -4,6 +4,7 @@ This project demonstrates a basic Intrusion Detection System (IDS) that monitors
 
 # Photos from the project:
 ![Screenshot 2024-08-05 at 16 57 55](https://github.com/user-attachments/assets/fdb2a529-b767-434f-8ba4-080db514d12f)
+![idsgif](https://github.com/user-attachments/assets/878f72ce-d771-40c9-81d2-3e050051d212)
 
 ## Setup Instructions
 ### Prerequisites
