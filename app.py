@@ -30,4 +30,4 @@ def start_ids():
 if __name__ == '__main__':
     t = threading.Thread(target=start_ids)
     t.start()
-    app.run(debug=True)
+    app.run(debug=True, port=5001)  # Make sure to use an available port
