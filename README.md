@@ -26,7 +26,8 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-By default, the application will run on http://127.0.0.1:5001. If port 5001 is occupied, the Flask server can be started on a different port by modifying the app. Run line in app.py.
+By default, the application will run on http://127.0.0.1:5001
+###### If port 5001 is occupied, the Flask server can be started on a different port by modifying the app.run line in app.py
 
 ## Configuration
 Ensure that the network interface specified in ids.py is correct for your environment:
