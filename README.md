@@ -57,5 +57,11 @@ http://127.0.0.1:5001
 ```
 You will see the Intrusion Detection System Dashboard displaying real-time traffic statistics and alerts.
 
+## Running the Application
+To run the unit tests, use the following command:
+```bash
+python -m unittest discover tests
+```
+
 ## Autors
 ### Shmuel Malikov and Sharon Angado - Project for Software Security Course
